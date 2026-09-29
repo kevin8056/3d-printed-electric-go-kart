@@ -14,7 +14,7 @@ Using https://makerworld.com/en/models/1629021-go-kart-v1-1-carbon-fiber-tubes-a
 
 **Drivetrain** — 2 kW brushless motor paired with a Spintend VESC-based controller and a hall-effect throttle pedal, sized two 6s battery packs in series providing an effective 12s. 
 
-![First bench test](images/03-bench-test.jpg)
+![First bench test](images/03-bench-test.jpeg)
 
 **Bench test** — Powered test: ran motor detection and pedal setup. Bench test powered by a DC power supply.
 
